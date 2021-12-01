@@ -1,7 +1,7 @@
 GPU stress Instructions 
 
 1-Open the LXTerminal and Navigate to the Desktop folder by entering on the command line: 
-	cd /Desktop
+	cd Desktop/
 
 2-On the command line, download the program by entering:
 	 wget https://github.com/thuffer/automotus/raw/main/matrixMul
